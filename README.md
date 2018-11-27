@@ -1,4 +1,4 @@
-# mongodb-cluster : 2016
+# mongodb-cluster : 2015
 
 Configuration of mongodb simple cluster
 
